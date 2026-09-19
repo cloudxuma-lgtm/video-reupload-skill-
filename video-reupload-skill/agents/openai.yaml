@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Reupload"
+  short_description: "Create Chinese bilingual subtitles from authorized English videos"
+  default_prompt: "Use the video-reupload skill to inspect or run this video subtitling workflow."
